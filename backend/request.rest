@@ -1,0 +1,1 @@
+GET http://localhost:5000/users?search_query=john&page=0&limit=10
